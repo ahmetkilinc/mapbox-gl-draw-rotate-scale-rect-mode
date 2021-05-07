@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drykovanov/mapbox-gl-draw-rotate-scale-rect-mode.git"
+    "url": "git+https://github.com/ahmetkilinc/mapbox-gl-draw-rotate-scale-rect-mode.git"
   },
   "author": "drykovanov",
   "license": "MIT",
